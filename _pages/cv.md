@@ -20,7 +20,7 @@ An apiring biomedical engineering student at Cornell University, driven by a pas
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Biomedical Engineering*  
-  GPA: 3.2/4.3 | Graduation: May, 2028
+  Graduation: May, 2028
   - Relevant Courses: Biomolecular Thermodynamics, Statics & Mechanics of Solids, 
   Electromagnetism, Differential Equations 
   
